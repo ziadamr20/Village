@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="nopcommerce Regression Suite">
+    <parametre name="broswer" value="chrome" ></parametre>
+    <test name="Regression Test" preserve-order="true">
+        <classes>
+            <class name="ACS.Village.Test.MainTest"/>
+        </classes>
+    </test>
+</suite>
+
+
